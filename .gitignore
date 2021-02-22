@@ -17,3 +17,11 @@ vendor/
 .idea
 
 terraform-provider-bitwarden
+
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+
+creds.json
